@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Button
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Button	KEYWORD
+
+#######################################
+# Methods (KEYWORD2)
+#######################################
+setTimeLongPress    KEYWORD2
+getTimeLongPress    KEYWORD2
+checkPress  KEYWORD2
+wasPressed  KEYWORD2
+WasLongPressed  KEYWORD2
+wasReleased  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEFAULT_LONG_PRESS   LITERAL1
+B_PULLUP   LITERAL1
+B_NOPULLUP  LITERAL1

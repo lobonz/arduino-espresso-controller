@@ -7,8 +7,8 @@ The relay board was in tact so I just used 10amp relays to control the higher am
 Drawbacks were that filling the tank, operating the group valves, tank valve and pump were all manual so to draw a shot it invovled flicking two switches and manually timing it to the correct amount.
 
 ## What this code does:
-- Monitor the fill level, engage the pump if too low.
-- Allows one button to begin drawing a shot and one button to top.
+- Monitor the fill level, engage the pump if too low and stops the pump when full.
+- Allows one button to begin drawing a shot and one button to stop.
 - Has two programmable buttons which can be programmed to whatever volume you like monitoring the flow sensors, e.g. Single Shot and Double Shot.
 
 ## Programming the buttons
